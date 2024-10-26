@@ -1,0 +1,77 @@
+body{
+    background-image: url(playwood\ background.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+div{
+    display: flex;
+}
+#img1{
+    
+    margin: 35% 0% 0% 125% ;
+    border-radius: 50%;
+    width: 375px;
+    height: 275px;
+    box-shadow:  8px 8px 8px black;
+}
+#img1:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+    box-shadow: 2px 4px 8px  black;
+
+
+
+
+}
+#img2{
+    border-radius: 50%;
+    height: 275px;
+    width: 375px;
+    margin: 38% 0% 0% 100%;
+    box-shadow: 8px 8px 8px black;
+}
+#img2:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+    box-shadow: 2px 2px 8px black;
+}
+h1{
+    margin: 24% 0% 0% 0%;
+    -webkit-text-fill-color:black;
+    font-size: 50px;
+}
+h2{
+    -webkit-text-fill-color:black;
+    font-size: 47px;
+    margin:24% 0% 0% 0% ;
+}
+#img3{
+    border-radius: 50%;
+    margin: 3% 0% 0% 40%;
+    box-shadow: 8px 8px 8px black;
+
+}
+#img3:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+    box-shadow: 2px 2px 8px black;
+
+}
+h3{
+    -webkit-text-fill-color:black;
+    font-size: 46px;
+    margin: 2% 0% 0% 37%;
+}
+button{
+
+    height: 40px;
+    background-color: blue;
+    -webkit-text-fill-color: white;
+    float: right;
+    margin: 20px;
+    border-radius: 10px;
+}
+#a1{
+    text-decoration: none;
+    -webkit-text-fill-color: white;
+}
